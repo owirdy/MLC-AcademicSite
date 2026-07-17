@@ -21,5 +21,5 @@ Publications: 3 total (2 as first author, 1 as co-author).
 
 ## Contact
 
-- **Email**: [procedure2012@hotmail.com](mailto:procedure2012@hotmail.com)
-- **GitHub**: [github.com/procedure2012](https://github.com/procedure2012)
+- **Email**: [meiling.chen@u.nus.edu](mailto:meiling.chen@u.nus.edu)
+- **GitHub**: [github.com/meilingcv](https://github.com/meilingcv)
