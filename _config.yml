@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mei-Ling Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Computer Vision"
-  location         : "Aachen, Germany"
-  employer         : "RWTH Aachen"
+  pronouns         : "she/her"
+  bio              : "PhD candidate in Computer Vision at National University of Singapore"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   uri              : # URL
   email            : "meiling.chen@u.nus.edu"
 
