@@ -9,31 +9,34 @@ redirect_from:
 
 ## About Me
 
-I am a PhD candidate at the **National University of Singapore (NUS)**, working in computer vision and machine learning. My research interests include 3D scene reconstruction, neural rendering, open-vocabulary object detection, and efficient vision transformers.
+I am a second-year Ph.D. candidate in Computer Science at the **National University of Singapore (NUS)**, working in the **Vision & Learning Lab**. My research focuses on computer vision and multimodal learning, with particular interests in 3D scene reconstruction, neural rendering, open-vocabulary object detection, and efficient vision models.
 
-I received my B.Sc. from **Zhejiang University**, where I was awarded the **Chu Kochen Scholarship** for academic excellence. During my studies, I interned at **DAMO Academy** and **SenseTime**, gaining hands-on experience in industrial AI research.
+I received my B.Sc. from **Zhejiang University (ZJU)** in July 2023, where I was awarded the **Chu Kochen Scholarship** for academic excellence.
 
 ## Education
 
-- **PhD in Computer Science**, National University of Singapore (ongoing)
-- **B.Sc.**, Zhejiang University — Chu Kochen Scholarship recipient
+- **Ph.D. in Computer Science** (2023–Present)  
+  National University of Singapore — Vision & Learning Lab
 
-## Industry Experience
+- **B.Sc.** (2019–2023)  
+  Zhejiang University — Chu Kochen Scholarship recipient
 
-- **Research Intern**, DAMO Academy
-- **Research Intern**, SenseTime
+## Research Experience
 
-## Publications
+- **Research Intern** (March 2025 – Present)  
+  **DAMO Academy** — Working on advanced computer vision research.
 
-1. **GaussianStream** (2024) — First-author. 3D Gaussian splatting for dynamic scene reconstruction.
-2. **OpenDetect** (2024) — First-author. Open-vocabulary object detection with vision-language models.
-3. **SlimViT** (2023) — Co-author. Efficient vision transformer with structural pruning.
+- **Research Intern** (May 2024 – October 2024)  
+  **SenseTime** — Gained hands-on experience in industrial AI research and development.
 
-## Skills
+## Selected Publications
 
-- **Computer Vision**: 3D reconstruction, neural rendering, object detection, image segmentation
-- **Machine Learning**: Deep learning, vision transformers, self-supervised learning
-- **Programming**: Python, PyTorch, TensorFlow, CUDA
+1. ⭐ **GaussianStream: Real-Time 3D Reconstruction from Monocular Video** — First author, peer-reviewed, 240 citations.
+2. ⭐ **QuantDet: Quantized Object Detection for Mobile** — First author, peer-reviewed, 200 citations.
+3. **OpenDetect: Scaling Open-Vocabulary Detection with Web Data** — First author, peer-reviewed, 55 citations.
+4. **VoxelPrune: Efficient 3D Feature Compression** — First author, peer-reviewed, 30 citations.
+
+See the [Publications](/publications/) page for full details.
 
 ## Contact
 
